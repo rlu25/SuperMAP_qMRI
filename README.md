@@ -17,9 +17,37 @@ Each subfolder contains `.mat` files representing different time points, masks, 
 
 <details>
 <summary>Click to expand the full directory tree</summary>
-  '''
-dataset/ ├── Testing Data/ │ ├── 0118/ │ │ ├── pros/ │ │ │ ├── TB4.mat │ │ │ ├── TB6.mat │ │ │ └── TB8.mat │ │ ├── retro/ │ │ │ ├── TB4.mat │ │ │ ├── TB6.mat │ │ │ └── TB8.mat │ │ ├── mask.mat │ │ └── Ref.mat │ ├── 0119/ │ ├── 0123/ │ ├── 0127/ │ ├── 0128/ │ ├── 0129/ │ ├── 0139/ │ ├── 0141/ │ └── 0144/ ├── Training Data/ │ ├── 0123_pros/ │ ├── 0123_retro/ │ ├── LI_STUDY0038_left/ │ ├── LI_STUDY0038_right/ │ ├── LI_STUDY0039/ │ └── LI_STUDY0041/
-  '''
+  ```
+dataset/
+├── Testing Data/
+│   ├── 0118/
+│   │   ├── pros/
+│   │   │   ├── TB4.mat
+│   │   │   ├── TB6.mat
+│   │   │   └── TB8.mat
+│   │   ├── retro/
+│   │   │   ├── TB4.mat
+│   │   │   ├── TB6.mat
+│   │   │   └── TB8.mat
+│   │   ├── mask.mat
+│   │   └── Ref.mat
+│   ├── 0119/
+│   ├── 0123/
+│   ├── 0127/
+│   ├── 0128/
+│   ├── 0129/
+│   ├── 0139/
+│   ├── 0141/
+│   └── 0144/
+├── Training Data/
+│   ├── 0123_pros/
+│   ├── 0123_retro/
+│   ├── LI_STUDY0038_left/
+│   ├── LI_STUDY0038_right/
+│   ├── LI_STUDY0039/
+│   └── LI_STUDY0041/
+```
+
 </details>
 
 
