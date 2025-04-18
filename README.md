@@ -1,9 +1,12 @@
-# Project Title
+# SuperMAP: Deep ultrafast MR relaxometry with joint spatiotemporal undersampling
 
 This repository supports the research paper:
 
 **Your Paper Title**  
 📄 [Read the paper](https://pubmed.ncbi.nlm.nih.gov/36128884/)
+
+![Figure 1](https://pubmed.ncbi.nlm.nih.gov/36128884/#&gid=article-figures&pid=figure-1-uid-0)
+
 
 ## Citation
 
