@@ -6,9 +6,9 @@ This repository supports the research paper:
 
 📄 [Read the paper](https://pubmed.ncbi.nlm.nih.gov/36128884/)
 
-![Figure 1](https://pubmed.ncbi.nlm.nih.gov/36128884/#&gid=article-figures&pid=figure-1-uid-0)
 
-![Diagram](picture/nihms-1826683-f0001.jpg)
+
+![Diagram](nihms-1826683-f0001.jpg)
 
 
 
